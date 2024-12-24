@@ -4,5 +4,15 @@ function plus(){
     result++
     input.innerHTML=result
 }
+function minus(){
+    result--
+    input.innerHTML=result
+}
+function reset(){
+    result
+    input.innerHTML=result
+
+}
+
 
 
