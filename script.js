@@ -9,7 +9,7 @@ function minus(){
     input.innerHTML=result
 }
 function reset(){
-    result
+    result=0
     input.innerHTML=result
 
 }
